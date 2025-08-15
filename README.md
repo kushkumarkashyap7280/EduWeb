@@ -2,6 +2,14 @@
 
 EduWeb is a modern, responsive learning platform front‑end built with React and Vite. It showcases course listings, reasons to choose the platform, company outcomes, reviews, and more—optimized for performance and a smooth user experience.
 
+## Live Demo
+
+- Deployment: https://edu-web-hazel.vercel.app/
+
+## Repository
+
+- GitHub: https://github.com/kushkumarkashyap7280/EduWeb
+
 ## Features
 
 - Clean, responsive UI with Tailwind CSS
